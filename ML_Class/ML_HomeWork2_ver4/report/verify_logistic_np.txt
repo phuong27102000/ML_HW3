@@ -1,0 +1,116 @@
+Please enter 0 for logistic or 1 for softmax: 0
+Running logistic np unit test...
+Reading vehicle data...
+EOF Reached
+Done reading
+Testing normalize_per_pixel: Passed.
+----------------------------------------
+Reading vehicle data...
+EOF Reached
+Done reading
+Testing normalize_all_pixel: Passed.
+----------------------------------------
+Testing reshape2D: Passed.
+----------------------------------------
+Testing add_one: Passed.
+----------------------------------------
+Testing feed_forward 1: Passed.
+----------------------------------------
+Testing compute_loss 1: Passed.
+----------------------------------------
+Testing get_grad 1: Passed.
+----------------------------------------
+Testing update_weight 1: Passed.
+----------------------------------------
+Testing update_weight_momentum 1: Passed.
+----------------------------------------
+Testing feed_forward 2: Passed.
+----------------------------------------
+Testing compute_loss 2: Passed.
+----------------------------------------
+Testing get_grad 2: Passed.
+----------------------------------------
+Testing update_weight 2: Passed.
+----------------------------------------
+Testing update_weight_momentum 2: Passed.
+----------------------------------------
+Testing feed_forward 3: Passed.
+----------------------------------------
+Testing compute_loss 3: Passed.
+----------------------------------------
+Testing get_grad 3: Passed.
+----------------------------------------
+Testing update_weight 3: Passed.
+----------------------------------------
+Testing update_weight_momentum 3: Passed.
+----------------------------------------
+Testing feed_forward 4: Passed.
+----------------------------------------
+Testing compute_loss 4: Passed.
+----------------------------------------
+Testing get_grad 4: Passed.
+----------------------------------------
+Testing update_weight 4: Passed.
+----------------------------------------
+Testing update_weight_momentum 4: Passed.
+----------------------------------------
+Testing feed_forward 5: Passed.
+----------------------------------------
+Testing compute_loss 5: Passed.
+----------------------------------------
+Testing get_grad 5: Passed.
+----------------------------------------
+Testing update_weight 5: Passed.
+----------------------------------------
+Testing update_weight_momentum 5: Passed.
+----------------------------------------
+Testing feed_forward 6: Passed.
+----------------------------------------
+Testing compute_loss 6: Passed.
+----------------------------------------
+Testing get_grad 6: Passed.
+----------------------------------------
+Testing update_weight 6: Passed.
+----------------------------------------
+Testing update_weight_momentum 6: Passed.
+----------------------------------------
+Testing feed_forward 7: Passed.
+----------------------------------------
+Testing compute_loss 7: Passed.
+----------------------------------------
+Testing get_grad 7: Passed.
+----------------------------------------
+Testing update_weight 7: Passed.
+----------------------------------------
+Testing update_weight_momentum 7: Passed.
+----------------------------------------
+Testing feed_forward 8: Passed.
+----------------------------------------
+Testing compute_loss 8: Passed.
+----------------------------------------
+Testing get_grad 8: Passed.
+----------------------------------------
+Testing update_weight 8: Passed.
+----------------------------------------
+Testing update_weight_momentum 8: Passed.
+----------------------------------------
+Testing feed_forward 9: Passed.
+----------------------------------------
+Testing compute_loss 9: Passed.
+----------------------------------------
+Testing get_grad 9: Passed.
+----------------------------------------
+Testing update_weight 9: Passed.
+----------------------------------------
+Testing update_weight_momentum 9: Passed.
+----------------------------------------
+Testing feed_forward 10: Passed.
+----------------------------------------
+Testing compute_loss 10: Passed.
+----------------------------------------
+Testing get_grad 10: Passed.
+----------------------------------------
+Testing update_weight 10: Passed.
+----------------------------------------
+Testing update_weight_momentum 10: Passed.
+----------------------------------------

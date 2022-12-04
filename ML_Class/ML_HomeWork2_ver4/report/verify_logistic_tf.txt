@@ -1,0 +1,69 @@
+Please enter 0 for logistic or 1 for softmax: 1
+Running logistic np unit test...
+Reading fashion MNIST data...
+<class 'numpy.ndarray'>
+Done reading
+Testing normalize: Passed.
+----------------------------------------
+Testing create_one_hot: Passed.
+----------------------------------------
+Testing feed_forward / softmax: Passed.
+----------------------------------------
+Testing compute_loss: Passed.
+----------------------------------------
+Testing get_grad: Passed.
+----------------------------------------
+Testing feed_forward / softmax: Passed.
+----------------------------------------
+Testing compute_loss: Passed.
+----------------------------------------
+Testing get_grad: Passed.
+----------------------------------------
+Testing feed_forward / softmax: Passed.
+----------------------------------------
+Testing compute_loss: Passed.
+----------------------------------------
+Testing get_grad: Passed.
+----------------------------------------
+Testing feed_forward / softmax: Passed.
+----------------------------------------
+Testing compute_loss: Passed.
+----------------------------------------
+Testing get_grad: Passed.
+----------------------------------------
+Testing feed_forward / softmax: Passed.
+----------------------------------------
+Testing compute_loss: Passed.
+----------------------------------------
+Testing get_grad: Passed.
+----------------------------------------
+Testing feed_forward / softmax: Passed.
+----------------------------------------
+Testing compute_loss: Passed.
+----------------------------------------
+Testing get_grad: Passed.
+----------------------------------------
+Testing feed_forward / softmax: Passed.
+----------------------------------------
+Testing compute_loss: Passed.
+----------------------------------------
+Testing get_grad: Passed.
+----------------------------------------
+Testing feed_forward / softmax: Passed.
+----------------------------------------
+Testing compute_loss: Passed.
+----------------------------------------
+Testing get_grad: Passed.
+----------------------------------------
+Testing feed_forward / softmax: Passed.
+----------------------------------------
+Testing compute_loss: Passed.
+----------------------------------------
+Testing get_grad: Passed.
+----------------------------------------
+Testing feed_forward / softmax: Passed.
+----------------------------------------
+Testing compute_loss: Passed.
+----------------------------------------
+Testing get_grad: Passed.
+----------------------------------------
